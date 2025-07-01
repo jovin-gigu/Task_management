@@ -1,0 +1,19 @@
+.container {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+  width: 80%;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 8px;
+  border: none;
+  cursor: pointer;
+}
